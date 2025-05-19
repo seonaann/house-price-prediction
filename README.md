@@ -1,6 +1,6 @@
 House Price Prediction - Kaggle Competition
 
-This repository contains my solution to the **"House Prices: Advanced Regression Techniques"** Kaggle competition. The goal is to predict the final prices of homes in Ames, Iowa based on a rich set of features.
+This repository contains my solution to the **"House Prices: Advanced Regression Techniques"** . The goal is to predict the final prices of homes in Ames, Iowa based on a rich set of features.
 
 ##  Contents
 
